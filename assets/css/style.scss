@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background: #fff6fb;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+.page-header {
+  background: linear-gradient(135deg, #ff8cc6, #ffd84d);
+  color: white;
+}
+
+.project-name {
+  font-size: 4rem;
+  letter-spacing: 1px;
+}
+
+.project-tagline {
+  font-size: 1.4rem;
+  opacity: 0.95;
+}
+
+.main-content h1,
+.main-content h2 {
+  color: #ff4fa3;
+}
+
+.main-content {
+  background: white;
+  border-radius: 24px;
+  padding: 2rem;
+  margin-top: 2rem;
+  box-shadow: 0 12px 35px rgba(255, 79, 163, 0.18);
+}
+
+.btn {
+  background: #ff4fa3;
+  border-radius: 999px;
+}
