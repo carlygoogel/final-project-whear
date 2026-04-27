@@ -413,13 +413,19 @@ Don't forget to make the GitHub pages public website! If you've never made a Git
 
 
 ### 2. Images
-Whear Hardware and Demo 
-<img width="3024" height="4032" alt="IMG_0678" src="https://github.com/user-attachments/assets/72d478fb-27ad-455d-91dd-2e3e3c864d56" />
-<img width="3024" height="4032" alt="IMG_0679 2" src="https://github.com/user-attachments/assets/9ae33d6b-698c-4304-8838-e73cd76af254" />
 
+**Whear Hardware and Demo**
 
-Whear IOS App
-<img width="1093" height="1515" alt="image" src="https://github.com/user-attachments/assets/9a1bd37d-9c3f-4637-b351-45afd8bee25d" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/72d478fb-27ad-455d-91dd-2e3e3c864d56" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9ae33d6b-698c-4304-8838-e73cd76af254" width="250"/>
+</div>
+
+<br>
+
+**Whear iOS App**
+
+<img src="https://github.com/user-attachments/assets/9a1bd37d-9c3f-4637-b351-45afd8bee25d" width="250"/>
 
 
 ### 3. Results
